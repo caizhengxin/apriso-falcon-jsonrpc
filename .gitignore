@@ -1,0 +1,9 @@
+*.py[co]
+.*.swp
+.tox
+docs/build/*
+dist/
+build/*
+.log
+xml_file/
+.idea/

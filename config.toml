@@ -1,0 +1,8 @@
+[apriso]
+    host = '192.168.209.128'
+    operation = 'TONY'
+
+
+[server]
+    host = '0.0.0.0'
+    port = 8000
